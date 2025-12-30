@@ -273,3 +273,4 @@ except Exception as e:
     print(f"\n[CRITICAL ERROR] {e}")
     import traceback
     traceback.print_exc()
+    Add V13.0 active model with multi-commodity features and realistic backtest results
